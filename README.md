@@ -1,2 +1,2 @@
-# Active-RIS-assistedMISO-SWIPT
+# Active-RIS-assisted MISO-SWIPT
 a research code share
